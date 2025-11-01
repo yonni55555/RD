@@ -1,0 +1,233 @@
+#EXTM3U max-conn="2" url-tvg="https://af-play.com/xmltv.xml.gz"
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12249/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12250/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12251/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12252/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2389/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2341/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2391/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/16019/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12254/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12255/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2362/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12232/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12278/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2340/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12231/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2373/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/7203/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2332/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2349/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2330/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12239/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12242/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2380/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12237/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2386/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12269/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="good-life-il" tvg-logo="http://epg.one/img/2686.png",החיים הטובים
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2355/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="" tvg-logo="http://epg.one/img/2700.png",ערוץ 98
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2369/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="health-il" tvg-logo="http://epg.one/img/2709.png", ערוץ בריאות
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2378/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2379/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12219/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2367/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12214/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-8-il-hd" tvg-logo="http://epg.one/img/5023.png",הוט 8
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12216/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-comedy-central-il-hd" tvg-logo="http://epg.one/img/5024.png",הוט קומדיה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12217/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12223/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12265/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-bollywood-il" tvg-logo="http://epg.one/img/5071.png",בוליווד
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12267/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="home-plus-il" tvg-logo="http://epg.one/img/2680.png",בית +
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2339/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2358/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12247/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2387/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12241/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12248/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12259/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="travel-channel-il" tvg-logo="http://epg.one/img/2692.png",ערוץ הטיולים
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2361/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSterQopokt37dESk7e7fsukVfvm_SHyKfSA&s",פוקס ניוז
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2335/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-zone-hd-il" tvg-logo="http://epg.one/img/2691.png",הוט Zone
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2360/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="e-il" tvg-logo="http://epg.one/img/4005.png",E!
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12243/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-real-il-hd" tvg-logo="https://www.hot.net.il/UploadedImages//03_2020/HOT_REAL_LOGO_510_147.png",הוט ריאלטי
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12274/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-hbo-il" tvg-logo="http://epg.one/img/2685.png",הוט HBO
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2354/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2377/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12209/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12245/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2357/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema2-il" tvg-logo="http://epg.one/img/2702.png",הוט סרטים 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12215/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12220/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2372/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hot-cinema4-il" tvg-logo="http://epg.one/img/2687.png",הוט סרטים 4
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2356/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="cinema-family-il-hd" tvg-logo="http://epg.one/img/9056.png",הוט סרטים משפחה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2151/index.m3u8
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="yes-disney-il-hd" tvg-logo="http://epg.one/img/4307.png",דיסני ערוץ
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2382/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="disney-jr-il" tvg-logo="http://epg.one/img/2674.png",דיסני ג'וניור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2333/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="teennick-il" tvg-logo="http://epg.one/img/2675.png",טיניק
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2334/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="nick-jr-il" tvg-logo="http://epg.one/img/2678.png",ניק ג'וניור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2337/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2338/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12244/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="zoom-il" tvg-logo="http://epg.one/img/2690.png",זום
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2359/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2364/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12246/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2366/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12240/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="baby-il" tvg-logo="http://epg.one/img/2701.png",בייבי טיוי
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2370/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="wiz-il" tvg-logo="http://epg.one/img/5087.png",ויז
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12283/index.m3u8
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png",ויווה איסאנבול
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12208/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2363/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12257/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/9076.png",דרמות טורקיות +
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/14207/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/14208/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12262/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/14220/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12264/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12211/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2390/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png",ים תיכוני+
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12224/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png",ויווה פרימיום
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12226/index.m3u8
+
+
+
+
+
+#EXTINF:0 group-title="IL" tvg-id="yes-docu-il-hd" tvg-logo="http://epg.one/img/2972.png",יס סדרות דוקו
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12258/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-drama-hd-il" tvg-logo="http://epg.one/img/4007.png",יס סדרות דרמה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2343/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-comedy-hd-il" tvg-logo="http://epg.one/img/4021.png",יס סדרות קומדיה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2345/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סדרות אקשן
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2346/index.m3u8
+
+
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12273/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/4003.png",יס סרטים לילדים
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2365/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/2968.png",יס סרטים קומדיה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2348/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/2968.png",יס סרטים קומדיה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12271/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/4021.png",יס סרטים קומדיה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12281/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2350/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12270/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סרטים אקשן
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12280/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/2351/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/4007.png",יס סרטים דרמה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12282/index.m3u8
+#EXTINF:0 group-title="IL" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
+http://kfji2wgo.tvclub.xyz/iptv/S4RSAHNDS83UBA/12272/index.m3u8
